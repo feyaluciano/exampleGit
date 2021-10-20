@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Archivo de prueba 1  Diagneyla modificada por jose
+=======
+Archivo de prueba 1  Diagneyla
+HOla , a partir de ahora usted es Nazarena del lago del terror
+>>>>>>> d39f5cf53eb720cfcaef4c2c87493e75239924c8
